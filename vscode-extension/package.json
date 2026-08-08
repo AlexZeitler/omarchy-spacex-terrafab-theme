@@ -1,20 +1,27 @@
 {
-    "name": "theme-aether",
-    "displayName": "Aether Theme",
-    "description": "Aether color theme generated from wallpaper",
-    "publisher": "local",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.70.0"
-    },
-    "categories": ["Themes"],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Aether",
-                "uiTheme": "vs-dark",
-                "path": "./themes/aether-color-theme.json"
-            }
-        ]
-    }
+  "name": "spacex-terrafab-theme",
+  "displayName": "SpaceX Terrafab Theme",
+  "description": "Dark color theme based on the SpaceX Terrafab: near-black violet background, light blue-grey foreground, cool accents in ice blue, cyan and lilac",
+  "publisher": "alexanderzeitler",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexZeitler/omarchy-spacex-terrafab-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpaceX Terrafab",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aether-color-theme.json"
+      }
+    ]
+  }
 }
