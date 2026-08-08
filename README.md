@@ -6,9 +6,23 @@ An Omarchy theme based on the SpaceX Terrafab: near-black violet as background, 
 
 ## Screenshots
 
+Click a thumbnail to open the wallpaper in full resolution.
+
 ### Terrafab
 
-![Terrafab Wallpaper](backgrounds/terrafab.jpeg)
+[![Terrafab Wallpaper](assets/terrafab-thumb.jpg)](backgrounds/terrafab.jpeg)
+
+### Mysterious Spaceport
+
+[![Mysterious Spaceport Wallpaper](assets/mysterious_spaceport-thumb.jpg)](backgrounds/mysterious_spaceport.png)
+
+### Spaceport Dark
+
+[![Spaceport Dark Wallpaper](assets/spaceport_dark-thumb.jpg)](backgrounds/spaceport_dark.png)
+
+### Spaceport Darker
+
+[![Spaceport Darker Wallpaper](assets/spaceport_darker-thumb.jpg)](backgrounds/spaceport_darker.png)
 
 ## Installation
 
