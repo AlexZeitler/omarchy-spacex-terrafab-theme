@@ -24,6 +24,10 @@ Click a thumbnail to open the wallpaper in full resolution.
 
 [![Terrafab Moon Crater Wallpaper](assets/terrafab_moon_crater-thumb.jpg)](backgrounds/terrafab_moon_crater.png)
 
+### Terrafab Closeup Earth
+
+[![Terrafab Closeup Earth Wallpaper](assets/terrafab_closeup_earth-thumb.jpg)](backgrounds/terrafab_closeup_earth.png)
+
 ### Mysterious Spaceport
 
 [![Mysterious Spaceport Wallpaper](assets/mysterious_spaceport-thumb.jpg)](backgrounds/mysterious_spaceport.png)
