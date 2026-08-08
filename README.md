@@ -12,6 +12,10 @@ Click a thumbnail to open the wallpaper in full resolution.
 
 [![Terrafab Wallpaper](assets/terrafab-thumb.jpg)](backgrounds/terrafab.jpeg)
 
+### Terrafab Storm
+
+[![Terrafab Storm Wallpaper](assets/terrafab_storm-thumb.jpg)](backgrounds/terrafab_storm.png)
+
 ### Mysterious Spaceport
 
 [![Mysterious Spaceport Wallpaper](assets/mysterious_spaceport-thumb.jpg)](backgrounds/mysterious_spaceport.png)
