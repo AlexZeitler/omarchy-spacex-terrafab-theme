@@ -28,6 +28,10 @@ Click a thumbnail to open the wallpaper in full resolution.
 
 [![Terrafab Closeup Earth Wallpaper](assets/terrafab_closeup_earth-thumb.jpg)](backgrounds/terrafab_closeup_earth.png)
 
+### Terrafab Closeup Barren
+
+[![Terrafab Closeup Barren Wallpaper](assets/terrafab_closeup_barren-thumb.jpg)](backgrounds/terrafab_closeup_barren.png)
+
 ### Mysterious Spaceport
 
 [![Mysterious Spaceport Wallpaper](assets/mysterious_spaceport-thumb.jpg)](backgrounds/mysterious_spaceport.png)
