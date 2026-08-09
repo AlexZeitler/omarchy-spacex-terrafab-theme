@@ -4,6 +4,12 @@
 
 An Omarchy theme based on the SpaceX Terrafab: near-black violet as background, light blue-grey as foreground, with cool accents in ice blue, cyan and lilac.
 
+## Installation
+
+```bash
+omarchy theme install https://github.com/alexzeitler/omarchy-spacex-terrafab-theme
+```
+
 ## Screenshots
 
 Click a thumbnail to open the wallpaper in full resolution.
@@ -43,9 +49,3 @@ Click a thumbnail to open the wallpaper in full resolution.
 ### Spaceport Darker
 
 [![Spaceport Darker Wallpaper](assets/spaceport_darker-thumb.jpg)](backgrounds/spaceport_darker.png)
-
-## Installation
-
-```bash
-omarchy theme install https://github.com/alexzeitler/omarchy-spacex-terrafab-theme
-```
